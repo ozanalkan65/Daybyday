@@ -1,0 +1,47 @@
+C Ödevi
+---------------------------------------
+"https://www.geeksforgeeks.org/c-pointers/" bu adreste aşağıda yer alan pointerlarla ilgi her örnek çözülecek.
+
+->Function Pointer "https://www.geeksforgeeks.org/function-pointer-in-c/"
+->Double Pointers "https://www.geeksforgeeks.org/c-pointer-to-pointer-double-pointer/"
+->NULL Pointer "https://www.geeksforgeeks.org/few-bytes-on-null-pointer-in-c/"
+->Void Pointer "https://www.geeksforgeeks.org/void-pointer-c-cpp/"
+->Wild Pointers "https://www.geeksforgeeks.org/what-are-wild-pointers-how-can-we-avoid/"
+->Constant Pointers "1 örnek yeter"
+->Pointer to Constant "1 örnek yeter"
+
+Python Ödevi
+---------------------------------------
+->290. Word Pattern
+
+Yüklerken dosya adı "10.06 çözüm" şeklinde olmalı
+
+Örnek dosya yapısı
+
+10.06
+|
+|->C
+   |->OkulYardımcıKaynak "sınav soruları ve alıştırma örnekleri"
+      |->soru_adı.c
+      |->Data
+         |->data.txt
+         |->data.cs
+         |->data.xlsx
+   |-> XX_sorusunun_çözümü.c
+   |-> LeetCodeXX.c
+   |-> XXXX_function.c
+   |-> blabla.c
+|
+|->Python
+   |->OkulYardımcıKaynak "sınav soruları ve alıştırma örnekleri"
+      |->soru_adı.py
+      |->Data
+         |->data.txt
+         |->data.cs
+         |->data.xlsx
+   |-> XX_soru_çözüm.py
+   |-> LeetCodeXX.py
+   |-> XXXX_function.py
+   |-> blabla.py
+
+Var olan dizinler olsun olmayan dizinleri boş bırak. Örneğin sınav sorusu çözmediğin gün OkulYardımcıKaynak dosyası olmak zorunda değil.
