@@ -1,0 +1,23 @@
+Ödev Linkleri
+----------------------------
+->https://www.geeksforgeeks.org/quick-sort/
+->https://www.geeksforgeeks.org/bubble-sort/
+->https://www.geeksforgeeks.org/radix-sort/
+->https://www.geeksforgeeks.org/merge-sort/
+->https://www.geeksforgeeks.org/selection-sort/
+
+Yardımcı Kaynak
+----------------------------
+->https://www.crio.do/blog/content/images/2022/01/Top-10-Sorting-Algorithms-You-Need-To-Know.png
+->https://www.cliffsnotes.com/study-notes/4372692
+
+Yöntem
+----------------------------
+*Algoritmaların mantıklarını kavramaya çalış
+*Kodda okuduğunu önce zihninde görselleştir
+*Kağıt ve kalem ile kodu kaba kod şeklinde yaz
+*IDE'de kendi kodunu yaz ve çalıştır
+*Yapamadığın yerlerde asıl koda 15 saniye bakıp tekrar kendi koduna geri dön
+*Son olarak her algoritmanın (O),(Ω),(Θ)'sını bulmaya çalış bunları yorum satırı olarak kodun sonuna ekle
+
+GİTHUB'DAN KONTROL EDECEĞİM!!!
